@@ -417,7 +417,7 @@ ul li {
 
 .top-srv-sec {
   text-align: center;
-  padding: 50px 0px;
+  padding: 0px 0px;
   background-color: #cedbd7;
 }
 
@@ -574,7 +574,7 @@ ul li {
 }
 
 .about-sec {
-  padding: 50px 0px;
+  padding: 5px 0px;
 }
 
 .about-sec .about-content ul {
@@ -589,7 +589,7 @@ ul li {
 }
 
 .best-srv-sec {
-  padding: 50px 0px;
+  padding: 0px 0px;
   text-align: center;
   position: relative;
   background: #fff;
@@ -942,7 +942,7 @@ ul li {
 }
 
 .serv2-sec {
-  padding: 100px 0px;
+  padding: 0px 0px;
   text-align: center;
 }
 
