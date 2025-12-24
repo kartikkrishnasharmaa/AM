@@ -1387,7 +1387,8 @@ ul li {
 
 @media screen and (max-width: 1199px) {
   .top-sec .top-col1 {
-    padding: 10px 0px;
+    padding: 0px 0px;
+    margin-bottom: -10px;
   }
   .top-sec .top-col1 p {
     font-size: 16px;
